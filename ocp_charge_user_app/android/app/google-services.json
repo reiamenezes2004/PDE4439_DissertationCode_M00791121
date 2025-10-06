@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010968028124",
+    "project_id": "ocp-charge",
+    "storage_bucket": "ocp-charge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010968028124:android:14a68a65d1187f96e0e519",
+        "android_client_info": {
+          "package_name": "com.example.ocpcharge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZHU-mnQSYPK-xBu3-1VM8hiY8xTWt3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010968028124:android:407aeca6af1e8956e0e519",
+        "android_client_info": {
+          "package_name": "com.ocpcharge.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZHU-mnQSYPK-xBu3-1VM8hiY8xTWt3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
